@@ -1,0 +1,14 @@
+{
+    "name": "swissup/module-breeze-plumrocket-call-for-price",
+    "description": "Plumrocket CallForPrice integration with Breeze Frontend",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Swissup\\BreezePlumrocketCallForPrice\\": ""
+        }
+    }
+}
